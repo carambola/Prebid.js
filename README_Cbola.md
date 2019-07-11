@@ -30,3 +30,13 @@ When running the build-modules a bundle with specific modules (adaptors) are bei
 
 The adaptors are selected according to the `modules.json` file - which should be aligned 
 with the HB providers.
+
+## Adding Providers
+
+The first step is to figure out what is the bidder code of the provider.
+For example: `E-Planning` is `eplanning`.
+
+The second step is to find the adaptor for the provider in the `modules` folder.
+
+If there is no such provider, it may mean that it is aliased.
+To verify this, search for the bidder code in the `modules` folder.
