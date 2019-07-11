@@ -1,0 +1,16 @@
+[
+  "consentManagement",
+  "33acrossBidAdapter",
+  "aolBidAdapter",
+  "appnexusBidAdapter",
+  "conversantBidAdapter",
+  "districtmDMXBidAdapter",
+  "emx_digitalBidAdapter",
+  "ixBidAdapter",
+  "openxBidAdapter",
+  "pubmaticBidAdapter",
+  "rhythmoneBidAdapter",
+  "rubiconBidAdapter",
+  "sovrnBidAdapter",
+  "smartadserverBidAdapter"
+]
