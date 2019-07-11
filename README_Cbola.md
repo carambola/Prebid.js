@@ -18,6 +18,7 @@ Carambola's current HB providers are:
 * Rubicon
 * Smart
 * Sovrn
+* E-Planning
 
 ## Build
 
@@ -26,5 +27,6 @@ The build process is performed by running the following command:
 `npm run build:modules`
 
 When running the build-modules a bundle with specific modules (adaptors) are being included.
+
 The adaptors are selected according to the `modules.json` file - which should be aligned 
 with the HB providers.

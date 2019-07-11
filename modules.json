@@ -12,5 +12,6 @@
   "rhythmoneBidAdapter",
   "rubiconBidAdapter",
   "sovrnBidAdapter",
-  "smartadserverBidAdapter"
+  "smartadserverBidAdapter",
+  "eplanningBidAdapter"
 ]
