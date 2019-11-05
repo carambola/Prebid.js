@@ -26,7 +26,8 @@ The build process is performed by running the following command:
 
 `npm run build:modules`
 
-When running the build-modules a bundle with specific modules (adaptors) are being included.
+After running the `build:modules` command a bundle with the specific modules (adaptors) 
+will be created.
 
 The adaptors are selected according to the `modules.json` file - which should be aligned 
 with the HB providers.
