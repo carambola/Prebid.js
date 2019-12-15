@@ -37,6 +37,8 @@ with the HB providers.
 The first step is to figure out what is the bidder code of the provider.
 For example: `E-Planning` is `eplanning`.
 
+See the [Bidder Docs](http://prebid.org/dev-docs/bidders.html)
+
 The second step is to find the adaptor for the provider in the `modules` folder.
 
 If there is no such provider, it may mean that it is aliased.
