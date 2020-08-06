@@ -1,12 +1,17 @@
 {
   "userId": [
+    "unifiedIdSystem",
+    "pubCommonIdSystem",
     "digiTrustIdSystem",
     "id5IdSystem",
-    "criteortusIdSystem",
     "parrableIdSystem",
     "britepoolIdSystem",
     "liveIntentIdSystem",
-    "criteoIdSystem"
+    "lotamePanoramaId",
+    "criteoIdSystem",
+    "netIdSystem",
+    "identityLinkIdSystem",
+    "sharedIdSystem"
   ],
   "adpod": [
     "freeWheelAdserverVideo",
